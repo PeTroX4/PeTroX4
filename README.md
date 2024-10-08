@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeTroX4
+- 👋 Hi, I’m Pedro Pinto
 - 👀 I’m interested in learning news things
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on  
